@@ -122,3 +122,12 @@ footer{
   display: flex;
   justify-content: center;
 }
+
+
+/* Mobile Styles */
+@media only screen and (max-width: 550px) {
+  .content{
+    display: block;
+    width: 100%;
+  }
+}
